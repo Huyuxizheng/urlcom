@@ -13,4 +13,9 @@ domain:dewu.com
 domain:dewucdn.com
 domain:laoyaoba.com
 domain:unisoc.com
+domain:kaihong.com
+domain:zh-jieli.com
+domain:sifli.com
+domain:199it.com
+domain:istrongcloud.com
 geosite:cn
